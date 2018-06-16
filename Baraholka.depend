@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1499684933 source:d:\2.programming\baraholka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
